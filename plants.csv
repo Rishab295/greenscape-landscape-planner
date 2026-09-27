@@ -1,0 +1,115 @@
+id,plant,sunlight,water,maintenance,soil,climate,use,price
+0,Areca Palm,Partial Shade,Medium,Medium,Well Drained,Tropical,Screening,350
+1,Bougainvillea,Full Sun,Low,Low,Well Drained,Tropical,Boundary,250
+2,Plumeria,Full Sun,Low,Low,Well Drained,Tropical,Ornamental,400
+3,Snake Plant,Low Light,Low,Very Low,Well Drained,Tropical,Indoor,150
+4,Ficus,Full Sun,Medium,Medium,Loamy,Tropical,Hedge,300
+5,Hibiscus,Full Sun,Medium,Medium,Loamy,Tropical,Flowering,180
+6,Jasmine,Full Sun,Medium,Medium,Loamy,Tropical,Flowering,150
+7,Lawn Grass,Full Sun,Medium,Medium,Loamy,Tropical,Lawn,35
+8,Croton,Partial Shade,Medium,Low,Well Drained,Tropical,Ornamental,120
+9,Palm Tree,Full Sun,Medium,Medium,Well Drained,Tropical,Ornamental,800
+10,Dracaena,Partial Shade,Low,Low,Well Drained,Tropical,Ornamental,250
+11,Ixora,Full Sun,Medium,Medium,Loamy,Tropical,Flowering,200
+12,Neem,Full Sun,Low,Low,Well Drained,Tropical,Tree,450
+13,Gulmohar,Full Sun,Medium,Low,Well Drained,Tropical,Tree,650
+14,Rain Tree,Full Sun,Medium,Medium,Loamy,Tropical,Shade Tree,900
+15,Amaltas,Full Sun,Low,Low,Well Drained,Tropical,Flowering Tree,750
+16,Tabebuia Rosea,Full Sun,Medium,Low,Well Drained,Tropical,Flowering Tree,850
+17,Tabebuia Avellanedae,Full Sun,Medium,Low,Well Drained,Tropical,Flowering Tree,850
+18,Plumeria Alba,Full Sun,Low,Low,Well Drained,Tropical,Flowering Tree,650
+19,Plumeria Rubra,Full Sun,Low,Low,Well Drained,Tropical,Flowering Tree,650
+20,Mango,Full Sun,Medium,Medium,Loamy,Tropical,Fruit Tree,550
+21,Guava,Full Sun,Medium,Medium,Loamy,Tropical,Fruit Tree,450
+22,Lemon,Full Sun,Medium,Medium,Loamy,Tropical,Fruit Tree,350
+23,Pomegranate,Full Sun,Low,Low,Well Drained,Semi-Arid,Fruit Tree,450
+24,Jamun,Full Sun,Medium,Medium,Loamy,Tropical,Fruit Tree,650
+25,Ashoka,Full Sun,Medium,Medium,Loamy,Tropical,Screening,500
+26,False Ashoka,Full Sun,Medium,Medium,Well Drained,Tropical,Screening,450
+27,Karanj,Full Sun,Low,Low,Well Drained,Tropical,Tree,500
+28,Indian Cork Tree,Full Sun,Medium,Medium,Loamy,Tropical,Tree,700
+29,Arjun,Full Sun,Medium,Medium,Loamy,Tropical,Tree,600
+30,Kadamba,Full Sun,High,Medium,Loamy,Tropical,Shade Tree,750
+31,Saptaparni,Full Sun,Medium,Medium,Well Drained,Tropical,Screening,700
+32,Foxtail Palm,Full Sun,Medium,Medium,Well Drained,Tropical,Palm,650
+33,Bottle Palm,Full Sun,Medium,Medium,Well Drained,Tropical,Palm,850
+34,Royal Palm,Full Sun,Medium,Medium,Well Drained,Tropical,Palm,1200
+35,Christmas Palm,Full Sun,Medium,Medium,Well Drained,Tropical,Palm,900
+36,Date Palm,Full Sun,Low,Low,Sandy,Semi-Arid,Palm,1800
+37,Coconut Palm,Full Sun,High,Medium,Sandy,Tropical,Palm,700
+38,Fan Palm,Full Sun,Low,Low,Well Drained,Tropical,Palm,650
+39,Traveller Palm,Partial Shade,Medium,Medium,Well Drained,Tropical,Tropical,550
+40,Bird of Paradise,Full Sun,Medium,Medium,Well Drained,Tropical,Tropical,450
+41,Duranta Gold,Full Sun,Medium,Medium,Well Drained,Tropical,Hedge,80
+42,Duranta Green,Full Sun,Medium,Medium,Well Drained,Tropical,Hedge,70
+43,Clerodendrum,Partial Shade,Medium,Medium,Loamy,Tropical,Hedge,100
+44,Murraya,Full Sun,Medium,Medium,Loamy,Tropical,Hedge,120
+45,Acalypha,Partial Shade,Medium,Medium,Loamy,Tropical,Hedge,75
+46,Tecoma,Full Sun,Medium,Low,Well Drained,Tropical,Flowering,160
+47,Jatropha,Full Sun,Low,Low,Well Drained,Tropical,Shrub,120
+48,Aralia,Partial Shade,Medium,Medium,Well Drained,Tropical,Ornamental,150
+49,Schefflera,Partial Shade,Medium,Medium,Well Drained,Tropical,Ornamental,180
+50,Cordyline,Partial Shade,Medium,Medium,Well Drained,Tropical,Ornamental,220
+51,Ficus Panda,Full Sun,Medium,Medium,Loamy,Tropical,Hedge,180
+52,Ficus Benjamina,Full Sun,Medium,Medium,Loamy,Tropical,Ornamental,250
+53,Ficus Lyrata,Partial Shade,Medium,Medium,Well Drained,Tropical,Ornamental,450
+54,Pittosporum,Full Sun,Medium,Medium,Well Drained,Tropical,Hedge,160
+55,Golden Euonymus,Partial Shade,Medium,Medium,Well Drained,Tropical,Hedge,180
+56,Mogra,Full Sun,Medium,Medium,Loamy,Tropical,Flowering,160
+57,Chandni,Full Sun,Medium,Medium,Loamy,Tropical,Flowering,120
+58,Gardenia,Partial Shade,Medium,High,Acidic,Tropical,Flowering,220
+59,Ruellia,Full Sun,Medium,Medium,Well Drained,Tropical,Flowering,90
+60,Allamanda,Full Sun,Medium,Medium,Well Drained,Tropical,Flowering,150
+61,Plumbago,Full Sun,Medium,Low,Well Drained,Tropical,Flowering,120
+62,Lantana,Full Sun,Low,Low,Well Drained,Tropical,Flowering,90
+63,Kalanchoe,Full Sun,Low,Low,Sandy,Tropical,Flowering,80
+64,Geranium,Full Sun,Medium,Medium,Loamy,Subtropical,Flowering,100
+65,Petunia,Full Sun,Medium,Medium,Loamy,Subtropical,Seasonal,70
+66,Marigold,Full Sun,Medium,Medium,Loamy,Subtropical,Seasonal,45
+67,Portulaca,Full Sun,Low,Low,Sandy,Tropical,Groundcover,45
+68,Vinca,Full Sun,Low,Low,Well Drained,Tropical,Groundcover,45
+69,Dahlia,Full Sun,Medium,Medium,Loamy,Subtropical,Seasonal,90
+70,Chrysanthemum,Full Sun,Medium,Medium,Loamy,Subtropical,Seasonal,90
+71,Rose,Full Sun,Medium,Medium,Loamy,Subtropical,Flowering,180
+72,Raat Rani,Partial Shade,Medium,Medium,Loamy,Tropical,Flowering,180
+73,Harsingar,Full Sun,Medium,Medium,Loamy,Tropical,Flowering,250
+74,Kaner,Full Sun,Low,Low,Well Drained,Tropical,Flowering,100
+75,Aglaonema,Low Light,Medium,Low,Well Drained,Tropical,Indoor,180
+76,Dieffenbachia,Partial Shade,Medium,Medium,Well Drained,Tropical,Indoor,180
+77,Philodendron,Partial Shade,Medium,Medium,Well Drained,Tropical,Ornamental,250
+78,Syngonium,Partial Shade,Medium,Medium,Well Drained,Tropical,Ornamental,100
+79,Spider Plant,Partial Shade,Medium,Low,Well Drained,Tropical,Indoor,90
+80,Peace Lily,Partial Shade,Medium,Medium,Loamy,Tropical,Indoor,180
+81,Calathea,Low Light,Medium,Medium,Loamy,Tropical,Indoor,220
+82,Asparagus Fern,Partial Shade,Medium,Medium,Well Drained,Tropical,Foliage,100
+83,Boston Fern,Partial Shade,High,Medium,Loamy,Tropical,Foliage,150
+84,Bird's Nest Fern,Partial Shade,High,Medium,Loamy,Tropical,Foliage,180
+85,Money Plant,Partial Shade,Medium,Low,Well Drained,Tropical,Climber,80
+86,Golden Pothos,Partial Shade,Medium,Low,Well Drained,Tropical,Climber,80
+87,Rhoeo,Partial Shade,Low,Low,Well Drained,Tropical,Groundcover,70
+88,Tradescantia,Partial Shade,Medium,Low,Well Drained,Tropical,Groundcover,70
+89,Ophiopogon,Partial Shade,Medium,Medium,Well Drained,Tropical,Groundcover,65
+90,Liriope,Partial Shade,Medium,Medium,Well Drained,Tropical,Groundcover,70
+91,Wedelia,Full Sun,Medium,Medium,Well Drained,Tropical,Groundcover,55
+92,Alternanthera,Full Sun,Medium,Medium,Loamy,Tropical,Groundcover,65
+93,Dwarf Ixora,Full Sun,Medium,Medium,Loamy,Tropical,Groundcover,140
+94,Chlorophytum,Partial Shade,Medium,Low,Well Drained,Tropical,Groundcover,70
+95,Tulsi,Full Sun,Medium,Medium,Loamy,Tropical,Vastu,80
+96,Aparajita,Full Sun,Medium,Medium,Well Drained,Tropical,Vastu,100
+97,Bel Patra,Full Sun,Low,Low,Well Drained,Tropical,Vastu,180
+98,Peepal,Full Sun,Medium,Medium,Loamy,Tropical,Vastu,350
+99,Banyan,Full Sun,Medium,Medium,Loamy,Tropical,Vastu,500
+100,Shami,Full Sun,Low,Low,Well Drained,Semi-Arid,Vastu,180
+101,Parijat,Full Sun,Medium,Medium,Loamy,Tropical,Vastu,250
+102,Ashoka Tree,Full Sun,Medium,Medium,Loamy,Tropical,Vastu,500
+103,Rangoon Creeper,Full Sun,Medium,Medium,Well Drained,Tropical,Climber,180
+104,Madhumalti,Full Sun,Medium,Medium,Well Drained,Tropical,Climber,180
+105,Star Jasmine,Full Sun,Medium,Medium,Well Drained,Tropical,Climber,220
+106,Morning Glory,Full Sun,Medium,Medium,Well Drained,Tropical,Climber,80
+107,Clerodendrum Thomsoniae,Partial Shade,Medium,Medium,Well Drained,Tropical,Climber,160
+108,Thunbergia,Full Sun,Medium,Medium,Well Drained,Tropical,Climber,100
+109,Mexican Grass,Full Sun,Medium,Medium,Loamy,Tropical,Lawn,35
+110,Doob Grass,Full Sun,Medium,Medium,Loamy,Tropical,Lawn,30
+111,Korean Grass,Full Sun,Medium,Medium,Loamy,Tropical,Lawn,40
+112,Carpet Grass,Full Sun,High,Medium,Loamy,Tropical,Lawn,32
+113,Buffalo Grass,Full Sun,Low,Low,Loamy,Subtropical,Lawn,38
