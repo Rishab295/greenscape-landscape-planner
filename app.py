@@ -23,15 +23,21 @@ from openpyxl.utils import get_column_letter
 
 load_dotenv()
 
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
-CLOUDFLARE_API_TOKEN = os.getenv(
-    "CLOUDFLARE_API_TOKEN"
-)
+def get_secret(name):
+    """Read a deployment secret from Streamlit Secrets first, then local .env."""
+    try:
+        value = st.secrets.get(name)
+        if value:
+            return str(value)
+    except Exception:
+        pass
+    return os.getenv(name)
 
-CLOUDFLARE_ACCOUNT_ID = os.getenv(
-    "CLOUDFLARE_ACCOUNT_ID"
-)
+
+GEMINI_API_KEY = get_secret("GEMINI_API_KEY")
+CLOUDFLARE_API_TOKEN = get_secret("CLOUDFLARE_API_TOKEN")
+CLOUDFLARE_ACCOUNT_ID = get_secret("CLOUDFLARE_ACCOUNT_ID")
 
 
 # ============================================================
